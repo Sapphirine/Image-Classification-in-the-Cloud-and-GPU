@@ -1,0 +1,21 @@
+
+// How to Install .ipa File on iPhone/iPad
+
+// 1) Plug in iPhone and open iTunes (will need to setup and configure if never done before)
+
+// 2) Click the "Apps" button inside of iTunes and this will navigate you to your app directory
+     - Note this will display all of the apps you have purchase from the iTunes library and are currently available for your device
+     - Since "Tagger" has not yet been published in the iOS App Store you will need to install it using the .ipa file provided
+
+// 3) Click File >> Add to Library
+
+// 4) Navigate to the location where you have saved the Tagger.ipa file you downloaded from our Github account
+
+// 5) If successfully added Tagger will appear in your App Drawer/Directory
+
+// 6) Click the "Install" button next to Tagger to install it onto your iPhone
+
+// 7) Click "Apply" and this will commit the changes you have made to the device and sync your programs
+
+// If you have any questions as to the installation of Tagger please feel free
+// to contact Eric Johnson at ericjohnson@gmail.com
